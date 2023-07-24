@@ -4,7 +4,7 @@
 > Well its a platform where chess lovers from any part of the world meet and compete among them. Interesting enough??
 
 Here is a **computer vision project** related to something on that platform.
-This has been made using** python** with the help of **YoloV5**. Tried out Yolov4 but took many hours of training so shifted to Yolov5 :(
+This has been made using **python** with the help of **YoloV5**. Tried out Yolov4 but took many hours of training so shifted to Yolov5 :(
 
 The project includes:
 - **Collecting snapshots** from Lichess, **annotating it** and making a **dataset out of in YAML format** for Yolo to understand.
