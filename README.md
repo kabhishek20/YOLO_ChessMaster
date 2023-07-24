@@ -9,7 +9,7 @@ This has been made using **python** with the help of **YoloV5**. Tried out Yolov
 The project includes:
 - **Collecting snapshots** from Lichess, **annotating it** and making a **dataset out of in YAML format** for Yolo to understand.
 - **Training the computer vision model** with the annotated images so that it can learn about the **features and edges**.
--** Testing and storing the weight **of the trained model for future use (If weights are not stored, then training it again will take 2 hours)
+- **Testing and storing the weight** of the trained model for future use (If weights are not stored, then training it again will take 2 hours)
 
 > How was the training process? How many images was it trained on?  
  Well, the model was trained for **6 different classes** (King, Queen, Pawn, Knight, Rook, Bishop). The number of instances of each class is in the image below.
