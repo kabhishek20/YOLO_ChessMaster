@@ -1,7 +1,7 @@
 # YOLO_ChessMaster
 
 > Ever played chess?? Do you have any idea what [lichess](https://lichess.org/) is?  
-> Well its a platform where chess lovers from any part of the world meet and compete among them. Interesting enough??
+> Well it is a platform where chess lovers from any part of the world meet and compete among them. Interesting enough??
 
 Here is a <code>**computer vision project**</code> related to something on that platform.
 This has been made using <code>**python**</code> with the help of <code>**YoloV5**</code>. Tried out Yolov4 but took many hours of training so shifted to Yolov5 :(
